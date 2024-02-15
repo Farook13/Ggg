@@ -210,7 +210,8 @@ ToTAL DISK: {}
 USED DISK: {} ({}%)
 FREE DISK: {}"""
     
-    BUTTON_LOCK_TEXT = ""Hey {query}, This Is Not For U. Search Ur Self""
+    BUTTON_LOCK_TEXT = ""Hey {query}
+This Is Not For U. Search Ur Self""
    
     FORCE_SUB_TEXT = "SoRRY BRo YoUR NoT JoINED MY CHANNEL So PLEAsE CLIcK JoIN BUTToN To JoIN MY CHANNEL AND TRY AGAIN"
    
