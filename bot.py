@@ -25,7 +25,7 @@ class Bot(Client):
 
     def __init__(self):
         super().__init__(
-            name="Professor-Bot",
+            name="Movie-Downloader-lk",
             api_id=API_ID,
             api_hash=API_HASH,
             bot_token=BOT_TOKEN,
@@ -49,7 +49,7 @@ class Bot(Client):
         self.username = me.username
         self.log_channel = LOG_CHANNEL
         self.uptime = UPTIME
-        curr = datetime.datetime.now(pytz.timezone("Asia/Kolkata"))
+        curr = datetime.datetime.now(pytz.timezone("Asia/Colombo"))
         date = curr.strftime('%d %B, %Y')
         tame = curr.strftime('%I:%M:%S %p')
         logger.info(LOG_MSG.format(me.first_name, date, tame, __repo__, __version__, __license__, __copyright__))
