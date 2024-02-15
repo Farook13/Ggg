@@ -6,230 +6,223 @@ I'm {bot}.
 
 I Can Provide Movie For You Just Add Me In Your Group or Join Our Group</b>"""
     
-    HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
+    HELP_TXT = "👾 Hey {}\n☘️ Help Menu"
 
     ABOUT_TXT = """<b> Movie Downloader LK
 
 🙍‍♂️ Owner : <a herf=https://t.me/PremiumCracker>Supun</a>
 👨‍💻 Developer : <a herf=https://t.me/Chxrith>CHXRITH</a>
-❗ Version : Movie Downloader Lk ᴠ1.0.0</b>"""
+! Version : Movie Downloader Lk v1.0.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b> bot is on testing.."""
 
-    FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
+    FILE_TXT = """<b>➤ HELP FoR FILE SToRE</b>
 
-<i>Bʏ Usɪɴɢ Tʜɪs Mᴏᴅᴜʟᴇ Yᴏᴜ Cᴀɴ Sᴛᴏʀᴇ Fɪʟᴇs Iɴ Mʏ Dᴀᴛᴀʙᴀsᴇ Aɴᴅ I Wɪʟʟ Gɪᴠᴇ Yᴏᴜ A Pᴇʀᴍᴀɴᴇɴᴛ Lɪɴᴋ  Tᴏ Aᴄᴄᴇss Tʜᴇ Sᴀᴠᴇᴅ Fɪʟᴇs. Iғ Yᴏᴜ Wᴀɴᴛ Tᴏ Aᴅᴅ Fɪʟᴇs Fʀᴏᴍ A Pᴜʙʟɪᴄ Cʜᴀɴɴᴇʟ Sᴇɴᴅ Tʜᴇ Fɪʟᴇ Lɪɴᴋ Oɴʟʏ  Oʀ Yᴏᴜ Wᴀɴᴛ Tᴏ Aᴅᴅ Fɪʟᴇs Fʀᴏᴍ A  Pʀɪᴠᴀᴛᴇ Cʜᴀɴɴᴇʟ Yᴏᴜʀ Mᴜsᴛ Mᴀᴋᴇ Mᴇ Aᴅᴍɪɴ Oɴ Tʜᴇ Cʜᴀɴɴᴇʟ Tᴏ Aᴄᴄᴇss Fɪʟᴇs</i>
+<i>BY UsING THIs MoDULE YoU CAN SToRE FILEs IN MY DATABAsE AND I WILL GIvE YoU A PERMANENT LINK  To AccEss THE SAvED FILEs. If YoU WANT To ADD FILEs FRoM A PUBLIc CHANNEL SEND THE FILE LINK ONLY  OR YoU WANT To ADD FILEs FRoM A  PRIvATE CHANNEL YoUR MUsT MAKE ME ADMIN ON THE CHANNEL To AccEss FILEs</i>
 
-<b>⪼ Cᴏᴍᴍᴀɴᴅ & Usᴀɢᴇ</b>
-➪ /link › Rᴇᴘʟʏ Tᴏ Aɴʏ Mᴇᴅɪᴀ Tᴏ Gᴇᴛ Tʜᴇ Lɪɴᴋ 
-➪ /batch › Tᴏ Cʀᴇᴀᴛᴇ Lɪɴᴋ Fᴏʀ Mᴜʟᴛɪᴘʟᴇ Mᴇᴅɪᴀ
+<b>⪼ CoMMAND & UsAGE</b>
+➪ /link > REPLY To ANY MEDIA To GET THE LINK 
+➪ /batch > To CREATE LINK FoR MULTIPLE MEDIA
 
 <b>⪼ EG:</b>
 </code>/batch https://t.me/bbcnbychxrith/2 https://t.me/bbcnbychxrith/3</code>"""
   
-    FILTER_TXT = "Sᴇʟᴇᴄᴛ Wʜɪᴄʜ Oɴᴇ Yᴏᴜ Wᴀɴᴛ...✨"
+    FILTER_TXT = "SELEcT WHIcH ONE YoU WANT...✨"
     
-    GLOBALFILTER_TXT = """<b>Hᴇʟᴘ Fᴏʀ Gʟᴏʙᴀʟ Fɪʟᴛᴇʀs</b>
+    GLOBALFILTER_TXT = """<b>HELP FoR GLoBAL FILTERs</b>
 
-<i>Fɪʟᴛᴇʀ Is Tʜᴇ Fᴇᴀᴛᴜʀᴇ Wᴇʀᴇ Usᴇʀs Cᴀɴ Sᴇᴛ Aᴜᴛᴏᴍᴀᴛᴇᴅ Rᴇᴘʟɪᴇs Fᴏʀ A Pᴀʀᴛɪᴄᴜʟᴀʀ Kᴇʏᴡᴏʀᴅ Aɴᴅ Bᴏᴛ  Wɪʟʟ Rᴇsᴘᴏɴᴅ Wʜᴇɴᴇᴠᴇʀ A Kᴇʏᴡᴏʀᴅ Is Fᴏᴜɴᴅ Tʜᴇ Mᴇssᴀɢᴇ</i>
+<i>FILTER Is THE FEATURE WERE UsERs CAN SET AUToMATED REPLIEs FoR A PARTIcULAR KEYWoRD AND BoT  WILL REsPoND WHENEvER A KEYWoRD Is FoUND THE MEssAGE</i>
 
-<b>Nᴏᴛᴇ:</b>
-Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋs Fᴏʀ Mʏ Aᴅᴍɪɴs
+<b>NoTE:</b>
+THIs MoDULE ONLY WoRKs FoR MY ADMINs
 
-<b>Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:</b>
-• /gfilter - Tᴏ Aᴅᴅ Gʟᴏʙᴀʟ Fɪʟᴛᴇʀs
-• /gfilters - Tᴏ Vɪᴇᴡ Lɪsᴛ Oғ Aʟʟ Gʟᴏʙᴀʟ Fɪʟᴛᴇʀs
-• /delg - Tᴏ Dᴇʟᴇᴛᴇ A Sᴘᴇᴄɪғɪᴄ Gʟᴏʙᴀʟ Fɪʟᴛᴇʀ
-• /delallg - Tᴏ Dᴇʟᴇᴛᴇ Aʟʟ Gʟᴏʙᴀʟ Fɪʟᴛᴇʀꜱ
+<b>CoMMANDs AND UsAGE:</b>
+• /gfilter - To ADD GLoBAL FILTERs
+• /gfilters - To VIEW LIsT Of ALL GLoBAL FILTERs
+• /delg - To DELETE A SPEcIfIc GLoBAL FILTER
+• /delallg - To DELETE ALL GLoBAL FILTERS
 
-• /g_filter off Usᴇ Tʜɪs Cᴏᴍᴍᴏᴀɴᴅ + on/offғ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Tᴏ Cᴏɴᴛʀᴏʟ Gʟᴏʙᴀʟ Fɪʟᴛᴇʀ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ"""
+• /g_filter off UsE THIs CoMMoAND + on/offf IN YoUR GRoUP To CoNTRoL GLoBAL FILTER IN YoUR GRoUP"""
 
-    MANUELFILTER_TXT = """<b>Hᴇʟᴘ Fᴏʀ Fɪʟᴛᴇʀs</b>
+    MANUELFILTER_TXT = """<b>HELP FoR FILTERs</b>
 
-<i>Fɪʟᴛᴇʀ Is Tʜᴇ Fᴇᴀᴛᴜʀᴇ Wᴇʀᴇ Usᴇʀs Cᴀɴ Sᴇᴛ Aᴜᴛᴏᴍᴀᴛᴇᴅ Rᴇᴘʟɪᴇs Fᴏʀ A Pᴀʀᴛɪᴄᴜʟᴀʀ Kᴇʏᴡᴏʀᴅ Aɴᴅ Bᴏᴛ  Wɪʟʟ Rᴇsᴘᴏɴᴅ Wʜᴇɴᴇᴠᴇʀ A Kᴇʏᴡᴏʀᴅ Is Fᴏᴜɴᴅ Tʜᴇ Mᴇssᴀɢᴇ</i>
+<i>FILTER Is THE FEATURE WERE UsERs CAN SET AUToMATED REPLIEs FoR A PARTIcULAR KEYWoRD AND BoT  WILL REsPoND WHENEvER A KEYWoRD Is FoUND THE MEssAGE</i>
 
-<b>Nᴏᴛᴇ:</b>
-𝟷. Tʜɪs Bᴏᴛ Sʜᴏᴜʟᴅ Hᴀᴠᴇ Aᴅᴍɪɴ Pʀɪᴠɪʟʟᴀɢᴇ.
-𝟸. Oɴʟʏ Aᴅᴍɪɴs Cᴀɴ Aᴅᴅ Fɪʟᴛᴇʀs Iɴ A Cʜᴀᴛ.
-𝟹. Aʟᴇʀᴛ Bᴜᴛᴛᴏɴs Hᴀᴠᴇ A Lɪᴍɪᴛ Oғ 𝟼𝟺 Cʜᴀʀᴀᴄᴛᴇʀs.
+<b>NoTE:</b>
+1. THIs BoT SHoULD HAvE ADMIN PRIvILLAGE.
+2. ONLY ADMINs CAN ADD FILTERs IN A CHAT.
+3. ALERT BUTToNs HAvE A LIMIT Of 64 CHARAcTERs.
 
-<b>Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:</b>
-• /filter - Aᴅᴅ A Fɪʟᴛᴇʀ Iɴ Cʜᴀᴛ
-• /filters - Lɪsᴛ Aʟʟ Tʜᴇ Fɪʟᴛᴇʀs Oғ A Cʜᴀᴛ
-• /del - Dᴇʟᴇᴛᴇ A Sᴘᴇᴄɪғɪᴄ Fɪʟᴛᴇʀ Iɴ Cʜᴀᴛ
-• /delall - Dᴇʟᴇᴛᴇ Tʜᴇ Wʜᴏʟᴇ Fɪʟᴛᴇʀs Iɴ A Cʜᴀᴛ (Cʜᴀᴛ Oᴡɴᴇʀ Oɴʟʏ)
+<b>CoMMANDs AND UsAGE:</b>
+• /filter - ADD A FILTER IN CHAT
+• /filters - LIsT ALL THE FILTERs Of A CHAT
+• /del - DELETE A SPEcIfIc FILTER IN CHAT
+• /delall - DELETE THE WHoLE FILTERs IN A CHAT (CHAT OWNER ONLY)
 
-• /g_filter off Usᴇ Tʜɪs Cᴏᴍᴍᴏᴀɴᴅ + on/offғ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Tᴏ Cᴏɴᴛʀᴏʟ Gʟᴏʙᴀʟ Fɪʟᴛᴇʀ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ"""
+• /g_filter off UsE THIs CoMMoAND + on/offf IN YoUR GRoUP To CoNTRoL GLoBAL FILTER IN YoUR GRoUP"""
 
-    BUTTON_TXT = """<b>Hᴇʟᴘ Fᴏʀ Bᴜᴛᴛᴏɴs</b>
+    BUTTON_TXT = """<b>HELP FoR BUTToNs</b>
 
-<i>Tʜɪs Bᴏᴛ Sᴜᴘᴘᴏʀᴛs Bᴏᴛʜ Uʀʟ Aɴᴅ Aʟᴇʀᴛ Iɴʟɪɴᴇ Bᴜᴛᴛᴏɴs.</i>
+<i>THIs BoT SUPPoRTs BoTH URL AND ALERT INLINE BUTToNs.</i>
 
-<b>Nᴏᴛᴇ:</b>
-𝟷. Tᴇʟᴇɢʀᴀᴍ Wɪʟʟ Nᴏᴛ Aʟʟᴏᴡs Yᴏᴜ Tᴏ Sᴇɴᴅ Bᴜᴛᴛᴏɴs Wɪᴛʜᴏᴜᴛ Aɴʏ Cᴏɴᴛᴇɴᴛ, Sᴏ Cᴏɴᴛᴇɴᴛ Is Mᴀɴᴅᴀᴛᴏʀʏ.
-𝟸. Tʜɪs Bᴏᴛ Sᴜᴘᴘᴏʀᴛs Bᴜᴛᴛᴏɴs Wɪᴛʜ Aɴʏ Tᴇʟᴇɢʀᴀᴍ Mᴇᴅɪᴀ Tʏᴘᴇ.
-𝟹. Bᴜᴛᴛᴏɴs Sʜᴏᴜʟᴅ Bᴇ Pʀᴏᴘᴇʀʟʏ Pᴀʀsᴇᴅ As Mᴀʀᴋᴅᴏᴡɴ Fᴏʀᴍᴀᴛ
+<b>NoTE:</b>
+1. TELEGRAM WILL NoT ALLoWs YoU To SEND BUTToNs WITHoUT ANY CoNTENT, So CoNTENT Is MANDAToRY.
+2. THIs BoT SUPPoRTs BUTToNs WITH ANY TELEGRAM MEDIA TYPE.
+3. BUTToNs SHoULD BE PRoPERLY PARsED As MARKDoWN FoRMAT
 
-<b>Uʀʟ Bᴜᴛᴛᴏɴs:</b>
-[Bᴜᴛᴛᴏɴ Tᴇxᴛ](buttonurl:xxxxxxxxxxxx)
+<b>URL BUTToNs:</b>
+[BUTToN TExT](buttonurl:xxxxxxxxxxxx)
 
-<b>Aʟᴇʀᴛ Bᴜᴛᴛᴏɴs:</b>
-[Bᴜᴛᴛᴏɴ Tᴇxᴛ](buttonalert:Tʜɪs Is Aɴ Aʟᴇʀᴛ Mᴇssᴀɢᴇ)"""
+<b>ALERT BUTToNs:</b>
+[BUTToN TExT](buttonalert:THIs Is AN ALERT MEssAGE)"""
 
-    AUTOFILTER_TXT = """<b>Hᴇʟᴘ Fᴏʀ AᴜᴛᴏFɪʟᴛᴇʀ</b>
+    AUTOFILTER_TXT = """<b>HELP FoR AUToFILTER</b>
 
-<Ai>Aᴜᴛᴏ Fɪʟᴛᴇʀ Is Tʜᴇ Fᴇᴀᴛᴜʀᴇ Tᴏ Fɪʟᴛᴇʀ & Sᴀᴠᴇ Tʜᴇ Fɪʟᴇs Aᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ Fʀᴏᴍ Cᴜᴀɴɴᴇʟ Tᴏ Gʀᴏᴜᴘ. Yᴏᴜ Cᴀɴ Usᴇ Tʜᴇ Fᴏʟʟᴏᴡɪɴɢ Cᴏᴍᴍᴀɴᴅ Tᴏ ᴏɴ/ᴏғғ Tʜᴇ AᴜᴛᴏFɪʟᴛᴇʀ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ</i>
+<Ai>AUTo FILTER Is THE FEATURE To FILTER & SAvE THE FILEs AUToMATIcALLY FRoM CUANNEL To GRoUP. YoU CAN UsE THE FoLLoWING CoMMAND To oN/off THE AUToFILTER IN YoUR GRoUP</i>
 
-• /autofilter on - ᴀᴜᴛᴏғɪʟᴛᴇʀ ᴇɴᴀʙʟᴇ ɪɴ ʏᴏʀ ᴄʜᴀᴛ
-• /autofilter off - ᴀᴜᴛᴏғɪʟᴛᴇʀ ᴅɪsᴀʙʟᴇ ɪɴ ʏᴏᴜʀ ᴄʜᴀᴛ
+• /autofilter on - AUTofILTER ENABLE IN YoR cHAT
+• /autofilter off - AUTofILTER DIsABLE IN YoUR cHAT
 
-<Ob>Oᴛʜᴇʀ Cᴏᴍᴍᴀɴᴅs:</b>
-• /set_template - Sᴇᴛ Iᴍᴅʙ Tᴇᴍᴘʟᴀᴛᴇ Fᴏʀ Yᴏᴜʀ Gʀᴏᴜᴘ 
-• /get_template - Gᴇᴛ Cᴜʀʀᴇɴᴛ Iᴍᴅʙ Tᴇᴍᴘʟᴀᴛᴇ Fᴏʀ Yᴏᴜʀ Gʀᴏᴜᴘ"""
+<Ob>OTHER CoMMANDs:</b>
+• /set_template - SET IMDB TEMPLATE FoR YoUR GRoUP 
+• /get_template - GET CURRENT IMDB TEMPLATE FoR YoUR GRoUP"""
 
-    CONNECTION_TXT = """<b>Hᴇʟᴘ Fᴏʀ Cᴏɴɴᴇᴄᴛɪᴏɴs</b>
+    CONNECTION_TXT = """<b>HELP FoR CoNNEcTIoNs</b>
 
-<i> Usᴇᴅ Tᴏ Cᴏɴɴᴇᴄᴛ Bᴏᴛ Tᴏ Pᴍ Fᴏʀ Mᴀɴᴀɢɪɴɢ Fɪʟᴛᴇʀs. Iᴛ Hᴇʟᴘs Tᴏ Aᴠᴏɪᴅ Sᴘᴀᴍᴍɪɴɢ Iɴ Gʀᴏᴜᴘs</i>
+<i> UsED To CoNNEcT BoT To PM FoR MANAGING FILTERs. IT HELPs To AvoID SPAMMING IN GRoUPs</i>
 
-<b>Nᴏᴛᴇ:</b>
-• Oɴʟʏ Aᴅᴍɪɴs Cᴀɴ Aᴅᴅ A Cᴏɴɴᴇᴄᴛɪᴏɴ.
-• Sᴇɴᴅ /connect Fᴏʀ Cᴏɴɴᴇᴄᴛɪɴɢ Mᴇ Tᴏ Uʀ Pᴍ
+<b>NOTE:</b>
+• ONLY ADMINs CAN ADD A CONNECTION.
+• SEND /connect FoR CoNNEcTING ME To UR PM
 
-<Cb>Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:</b>
-• /connect - Cᴏɴɴᴇᴄᴛ A Pᴀʀᴛɪᴄᴜʟᴀʀ Cʜᴀᴛ Tᴏ Yᴏᴜʀ Pᴍ
-• /disconnect - Dɪsᴄᴏɴɴᴇᴄᴛ Fʀᴏᴍ A Cʜᴀᴛ
-• /connections - Lɪsᴛ Aʟʟ Yᴏᴜʀ Cᴏɴɴᴇᴄᴛɪᴏɴs"""
+<Cb>CoMMANDs AND UsAGE:</b>
+• /connect - CoNNEcT A PARTIcULAR CHAT To YoUR PM
+• /disconnect - DIscoNNEcT FRoM A CHAT
+• /connections - LIsT ALL YoUR CoNNEcTIoNs"""
 
-    ADMIN_TXT = """<b>Hᴇʟᴩ Fᴏʀ Aᴅᴍɪɴꜱ</b>
-    
-<i>Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋs Fᴏʀ Mʏ Aᴅᴍɪɴs</i>
+    ADMIN_TXT = """<b>HELP FOR ADMINS</b>
 
-<b>Cᴏᴍᴍᴀɴᴅ & Uꜱᴀɢᴇ</b>
-• /logs - Tᴏ Gᴇᴛ Tʜᴇ Rᴇᴄᴇɴᴛ Eʀʀᴏʀꜱ
-• /delete - Tᴏ Dᴇʟᴇᴛᴇ A Sᴘᴇᴄɪꜰɪᴄ Fɪʟᴇ Fʀᴏᴍ DB
-• /deleteall - Tᴏ Dᴇʟᴇᴛᴇ Aʟʟ Fɪʟᴇs Fʀᴏᴍ DB
-• /users - Tᴏ Gᴇᴛ Lɪꜱᴛ Oꜰ Mʏ Uꜱᴇʀꜱ Aɴᴅ Iᴅꜱ
-• /chats - Tᴏ Gᴇᴛ Lɪꜱᴛ Oꜰ Mʏ Cʜᴀᴛꜱ Aɴᴅ Iᴅꜱ
-• /channel - Tᴏ Gᴇᴛ Lɪꜱᴛ Oꜰ Tᴏᴛᴀʟ Cᴏɴɴᴇᴄᴛᴇᴅ Cʜᴀɴɴᴇʟꜱ
-• /broadcast - Tᴏ Bʀᴏᴀᴅᴄᴀꜱᴛ A Mᴇꜱꜱᴀɢᴇ Tᴏ Aʟʟ Uꜱᴇʀꜱ
-• /group_broadcast - Tᴏ Bʀᴏᴀᴅᴄᴀsᴛ A Mᴇssᴀɢᴇ Tᴏ Aʟʟ Cᴏɴɴᴇᴄᴛᴇᴅ Gʀᴏᴜᴘs
-• /leave  - Wɪᴛʜ Cʜᴀᴛ Iᴅ Tᴏ Lᴇᴀᴠᴇ Fʀᴏᴍ A Cʜᴀᴛ
-• /disable  - Wɪᴛʜ Cʜᴀᴛ Iᴅ Tᴏ Dɪꜱᴀʙʟᴇ A Cʜᴀᴛ
-• /invite - Wɪᴛʜ Cʜᴀᴛ Iᴅ Tᴏ Gᴇᴛ Tʜᴇ Iɴᴠɪᴛᴇ Lɪɴᴋ Oғ Aɴʏ Cʜᴀᴛ Wʜᴇʀᴇ Tʜᴇ Bᴏᴛ Is Aᴅᴍɪɴ
-• /ban_user  - Wɪᴛʜ Iᴅ Tᴏ Bᴀɴ A Uꜱᴇʀ
-• /unban_user  - Wɪᴛʜ Iᴅ Tᴏ Uɴʙᴀɴ A Uꜱᴇʀ
-• /restart - Tᴏ Rᴇsᴛᴀʀᴛ Tʜᴇ Bᴏᴛ
-• /clear_junk - Cʟᴇᴀʀ Aʟʟ Dᴇʟᴇᴛᴇ Aᴄᴄᴏᴜɴᴛ & Bʟᴏᴄᴋᴇᴅ Aᴄᴄᴏᴜɴᴛ Iɴ Dᴀᴛᴀʙᴀsᴇ
-• /clear_junk_group - Cʟᴇᴀʀ Aᴅᴅ Rᴇᴍᴏᴠᴇᴅ Gʀᴏᴜᴘ Oʀ Dᴇᴀᴄᴛɪᴠᴀᴛᴇᴅ Gʀᴏᴜᴘs Oɴ Dʙ"""
+<b>CoMMAND & USAGE</b>
+☘️ /logs - To GET THE REcENT ERRoRS
+☘️ /delete - To DELETE A SPEcIFIc FILE FRoM DB
+☘️ /deleteall - To DELETE ALL FILEs FRoM DB
+☘️ /users - To GET LIST OF MY USERS AND IDS
+☘️ /chats - To GET LIST OF MY CHATS AND IDS
+☘️ /channel - To GET LIST OF ToTAL CoNNEcTED CHANNELS
+☘️ /broadcast - To BRoADcAST A MESSAGE To ALL USERS
+☘️ /group_broadcast - To BRoADcAsT A MEssAGE To ALL CoNNEcTED GRoUPs
+☘️ /leave  - WITH CHAT ID To LEAvE FRoM A CHAT
+☘️ /disable  - WITH CHAT ID To DISABLE A CHAT
+☘️ /invite - WITH CHAT ID To GET THE INvITE LINK Of ANY CHAT WHERE THE BoT Is ADMIN
+☘️ /ban_user  - WITH ID To BAN A USER
+☘️ /unban_user  - WITH ID To UNBAN A USER
+☘️ /restart - To REsTART THE BoT
+☘️ /clear_junk - CLEAR ALL DELETE AccoUNT & BLocKED AccoUNT IN DATABAsE
+☘️ /clear_junk_group - CLEAR ADD REMovED GRoUP OR DEAcTIvATED GRoUPs ON DB"""
 
 
-    STATUS_TXT = """<b>◉ ᴛᴏᴛᴀʟ ꜰɪʟᴇꜱ: <code>{}</code>
-◉ ᴛᴏᴛᴀʟ ᴜꜱᴇʀꜱ: <code>{}</code>  
-◉ ᴛᴏᴛᴀʟ ᴄʜᴀᴛꜱ: <code>{}</code>
-◉ ᴜꜱᴇᴅ ᴅʙ ꜱɪᴢᴇ: <code>{}</code>
-◉ ꜰᴇᴇᴇ ᴅʙ ꜱɪᴢᴇ: <code>{}</code></b>"""
+    STATUS_TXT = """<b>📁 TOTAL FILES: <code>{}</code>
+🙍‍♂️ TOTAL USERS: <code>{}</code>  
+💬 TOTAL CHATS: <code>{}</code>
+📈 USED DB SIZE: <code>{}</code>
+📉 FEEE DB SIZE: <code>{}</code></b>"""
 
-    LOG_TEXT_G = """<b>#ɴᴇᴡ_ɢʀᴏᴜᴩ
+    LOG_TEXT_G = """<b>📢 NEW_GRoUP
 
-◉ ɢʀᴏᴜᴩ: {a}
-◉ ɢ-ɪᴅ: <code>{b}</code>
-◉ ʟɪɴᴋ: @{c}
-◉ ᴍᴇᴍʙᴇʀꜱ: <code>{d}</code>
-◉ ᴀᴅᴅᴇᴅ ʙʏ: {e}
+🧩 GROUP: {a}
+💡 GROUP ID: <code>{b}</code>
+🔗 LINK: @{c}
+🙍‍♂️ MEMBERS: <code>{d}</code>
+🎖 ADDED BY: {e}
 
-◉ ʙʏ: @{f}</b>"""
+🤖 BY: @{f}</b>
+
+[ #newgrp ]"""
   
-    LOG_TEXT_P = """#ɴᴇᴡ_ᴜꜱᴇʀ
+    LOG_TEXT_P = """📢 NEW_USER
     
-◉ ᴜꜱᴇʀ-ɪᴅ: <code>{}</code>
-◉ ᴀᴄᴄ-ɴᴀᴍᴇ: {}
-◉ ᴜꜱᴇʀɴᴀᴍᴇ: @{}
+🎗️ USER-ID: <code>{}</code>
+☘️ NAME: {}
+🧤 USERNAME: @{}
 
-◉ ʙʏ: @{}</b>"""
+🤖 BY: @{}</b>
+
+[ #newuser ]
+"""
   
-    GROUPMANAGER_TXT = """<b>Hᴇʟᴩ Fᴏʀ GʀᴏᴜᴩMᴀɴᴀɢᴇʀ</b>
+    GROUPMANAGER_TXT = """<b>Help for Groupmanager</b>
 
-<i>Tʜɪꜱ Iꜱ Hᴇʟᴩ Oꜰ Yᴏᴜʀ Gʀᴏᴜᴩ Mᴀɴᴀɢɪɴɢ. Tʜɪꜱ Wɪʟʟ Wᴏʀᴋ Oɴʟʏ Fᴏʀ Gʀᴏᴜᴩ aᴅᴍɪɴꜱ</i>
+<i>This Is Help of Your Group Managing. This Will Work Only for Group Admins</i>
 
-<b>Cᴏᴍᴍᴀɴᴅ & Uꜱᴀɢᴇ:</b>
-• /inkick - Cᴏᴍᴍᴀɴᴅ Wɪᴛʜ Rᴇǫᴜɪʀᴇᴅ Aʀɢᴜᴍᴇɴᴛs Aɴᴅ I Wɪʟʟ Kɪᴄᴋ Mᴇᴍʙᴇʀs Fʀᴏᴍ Gʀᴏᴜᴘ.
-• /instatus - Tᴏ Cʜᴇᴄᴋ Cᴜʀʀᴇɴᴛ Sᴛᴀᴛᴜs Oғ Cʜᴀᴛ Mᴇᴍʙᴇʀ Fʀᴏᴍ Gʀᴏᴜᴘ.
-• /dkick - Tᴏ Kɪᴄᴋ Dᴇʟᴇᴛᴇᴅ Aᴄᴄᴏᴜɴᴛs
-• /ban - To Bᴀɴ A Uꜱᴇʀ Fᴏʀᴍ Tʜᴇ Gʀᴏᴜᴩ
-• /unban - Uɴʙᴀɴ Tʜᴇ Bᴀɴɴᴇᴅ Uꜱᴇʀ
-• /tban - Tᴇᴍᴩᴏʀᴀʀʏ Bᴀɴ A Uꜱᴇʀ
-• /mute - To Mᴜᴛᴇ A Uꜱᴇʀ
-• /unmute - To Uɴᴍᴜᴛᴇ Tʜᴇ Mᴜᴛᴇᴅ Uꜱᴇʀ
-• /tmute - Wɪᴛʜ Vᴀʟᴜᴇ To Mᴜᴛᴇ Uᴩ To Pᴀʀᴛɪᴄᴜʟᴀʀ Tɪᴍᴇ Eɢ: <code>/tmute 2h</code> To Mᴜᴛᴇ 2Hᴏᴜʀ Vᴀʟᴜᴇꜱ Iꜱ (m/h/d)
-• /pin - Tᴏ Pɪɴ A Mᴇꜱꜱᴀɢᴇ Oɴ Yᴏᴜʀ Cʜᴀᴛ
-• /unpin - Tᴏ Uɴᴩɪɴ Tʜᴇ Mᴇꜱꜱᴀɢᴇ Oɴ Yᴏᴜʀ Cʜᴀᴛ
-• /purge - Dᴇʟᴇᴛᴇ Aʟʟ Mᴇssᴀɢᴇs Fʀᴏᴍ Tʜᴇ Rᴇᴘʟɪᴇᴅ Tᴏ Mᴇssᴀɢᴇ, Tᴏ Tʜᴇ Cᴜʀʀᴇɴᴛ Mᴇssᴀɢᴇ """
+<b>Command & Usage:</b>
+• /Inkick - Command With Reouired Arguments and I Will Kick Members From Group.
+• /Instatus - To Check Current Status of Chat Member From Group.
+• /Dkick - To Kick Deleted Accounts
+• /Ban - To Ban a User Form the Group
+• /Unban - Unban the Banned User
+• /Tban - Temporary Ban a User
+• /Mute - To Mute a User
+• /Unmute - To Unmute the Muted User
+• /Tmute - With Value to Mute up to Particular Time Eg: <Code>/Tmute 2H</Code> to Mute 2HOUR Values Is (M/H/D)
+• /Pin - To Pin a Message on Your Chat
+• /Unpin - To Unpin the Message on Your Chat
+• /Purge - Delete All Messages From the Replied to Message, to the Current Message """
 
-    EXTRAMOD_TXT = """<b>Hᴇʟᴩ Fᴏʀ Exᴛʀᴀ Mᴏᴅᴜʟᴇ</b>
+    EXTRAMOD_TXT = """<b>Help for Extra Module</b>
 
-<i>Jᴜꜱᴛ Sᴇɴᴅ Aɴʏ Iᴍᴀɢᴇ Tᴏ Eᴅɪᴛ Iᴍᴀɢᴇ ✨</i>
+<i>Just Send Any Image to Edit Image ✨</i>
 
-<b>Cᴏᴍᴍᴀɴᴅꜱ & Uꜱᴀɢᴇ:</b>
-• /id - Gᴇᴛ Iᴅ Oғ A Sᴘᴇᴄɪғᴇᴅ Usᴇʀ
-• /info  - Gᴇᴛ Iɴғᴏʀᴍᴀᴛɪᴏɴ Aʙᴏᴜᴛ A Usᴇʀ
-• /imdb  - Gᴇᴛ Tʜᴇ Fɪʟᴍ Iɴғᴏʀᴍᴀᴛɪᴏɴ Fʀᴏᴍ Iᴍᴅʙ Sᴏᴜʀᴄᴇ
-• /paste [ᴛᴇxᴛ] - Pᴀsᴛᴇ Tʜᴇ Gɪᴠᴇɴ Tᴇxᴛ Oɴ Pᴀsᴛʏ
-• /tts [ᴛᴇxᴛ] - Cᴏɴᴠᴇʀᴛ Tᴇxᴛ Tᴏ Sᴘᴇᴇᴄʜ
-• /telegraph - Sᴇɴᴅ Mᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ Rᴇᴘʟʏ Wɪᴛʜ Pɪᴄᴛᴜʀᴇ Oʀ Vɪᴅᴇ Uɴᴅᴇʀ (𝟻ᴍʙ)
-• /json - Rᴇᴩʟʏ Wɪᴛʜ Aɴʏ Mᴇꜱꜱᴀɢᴇ Tᴏ Gᴇᴛ Mᴇꜱꜱᴀɢᴇ Iɴꜰᴏ (ᴜꜱᴇꜰᴜʟʟ ꜰᴏʀ ɢʀᴏᴜᴩ)
-• /written - Rᴇᴩʟʏ Wɪᴛʜ Tᴇxᴛ Tᴏ Gᴇᴛ Fɪʟᴇ (ᴜꜱᴇꜰᴜʟʟ ꜰᴏʀ ᴄᴏᴅᴇʀꜱ)
-• /carbon - Rᴇᴘʟʏ Wɪᴛʜ Tᴇxᴛ Tᴏ Gᴇᴛ Cᴀʀʙᴏɴᴀᴛᴇᴅ Iᴍᴀɢᴇ
-• /font [ᴛᴇxᴛ] - Tᴏ Cʜᴀɴɢᴇ Yᴏᴜʀ Tᴇxᴛ Fᴏɴᴛs Tᴏ Fᴀɴᴄʏ Fᴏɴᴛ
-• /share - Rᴇᴘʟʏ Wɪᴛʜ Tᴇxᴛ Tᴏ Gᴇᴛ Tᴇxᴛ Sʜᴀʀᴀʙʟᴇ Lɪɴᴋ
-• /song [ɴᴀᴍᴇ] - Tᴏ Sᴇᴀʀᴄʜ Tʜᴇ Sᴏɴɢ Iɴ YᴏᴜTᴜʙᴇ
-• /video [ʟɪɴᴋ] - Tᴏ Dᴏᴡɴʟᴏᴀᴅ Tʜᴇ YᴏᴜTᴜʙᴇ Vɪᴅᴇᴏ"""    
+<b>Commands & Usage:</b>
+• /ID - Get ID of a Specifed User
+• /Info  - Get Information About a User
+• /Imdb  - Get the Film Information From Imdb Source
+• /Paste [Text] - Paste the Given Text on Pasty
+• /Tts [Text] - Convert Text to Speech
+• /Telegraph - Send Me This Command Reply With Picture or Vide Under (5MB)
+• /Json - Reply With Any Message to Get Message Info (Usefull for Group)
+• /Written - Reply With Text to Get File (Usefull for Coders)
+• /Carbon - Reply With Text to Get Carbonated Image
+• /Font [Text] - To Change Your Text Fonts to Fancy Font
+• /Share - Reply With Text to Get Text Sharable Link
+• /Song [Name] - To Search the Song in YouTube
+• /Video [Link] - To Download the YouTube Video"""    
     
-    CREATOR_REQUIRED = "❗<b>Yᴏᴜ Hᴀᴠᴇ To Bᴇ Tʜᴇ Gʀᴏᴜᴩ Cʀᴇᴀᴛᴏʀ Tᴏ Dᴏ Tʜᴀᴛ</b>"
+    CREATOR_REQUIRED = "!<b>YOU HAVE TO BE THE GROUP CREATOR TO DO THAT</b>"
       
-    INPUT_REQUIRED = "❗ **Aʀɢᴜᴍᴇɴ Rqᴜɪʀᴇᴅ**"
+    INPUT_REQUIRED = "! **ARGUMEN RQUIRED**"
       
-    KICKED = "✔️ Sᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ Kɪᴄᴋᴇᴅ {} Mᴇᴍʙᴇʀꜱ Acᴄᴏʀᴅɪɴɢ To Tʜᴇ Aʀɢᴜᴍᴇɴᴛꜱ Prᴏᴠɪᴅᴇᴅ"
+    KICKED = "✔️ SUCCESSFULLY KICKED {} MEMBERS ACCORDING TO THE ARGUMENTS PROVIDED"
       
-    START_KICK = "Rᴇᴍᴏᴠɪɴɢ Iɴᴀᴄᴛɪᴠᴇ Mᴇᴍʙᴇʀs Tʜɪs Mᴀʏ Tᴀᴋᴇ A Wʜɪʟᴇ"
+    START_KICK = "REMOVING INACTIVE MEMBERS THIS MAY TAKE A WHILE"
       
-    ADMIN_REQUIRED = "❗<b>Iᴀᴍ Nᴏᴛ Aᴅᴍɪɴ Iɴ Tʜɪꜱ Cʜᴀᴛ Sᴏ Pʟᴇᴀꜱᴇ Aᴅᴅ Mᴇ Aɢᴀɪɴ Wɪᴛʜ Aʟʟ Pᴅᴍɪɴ Pᴇʀᴍɪꜱꜱɪᴏɴ</b>"
+    ADMIN_REQUIRED = "!<b>I'AM NOT ADMIN IN THIS CHAT SO PLEASE ADD ME AGAIN WITH ALL ADMIN PERMISSION</b>"
       
-    DKICK = "✔️ Kɪᴄᴋᴇᴅ {} Dᴇʟᴇᴛᴇᴅ Aᴄᴄᴏᴜɴᴛꜱ Sᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ"
+    DKICK = "✔️ KICKED {} DELETED ACCOUNTS SUCCESSFULLY"
       
-    FETCHING_INFO = "<b>Wᴀɪᴛ I Wɪʟʟ Tᴀᴋᴇ Tʜᴇ Aʟʟ Iɴꜰᴏ</b>"
+    FETCHING_INFO = "<b>WAIT I WILL TAKE THE ALL INFO</b>"
    
-    SERVER_STATS = """Sᴇʀᴠᴇʀ Sᴛᴀᴛꜱ:
+    SERVER_STATS = """📊 SERVER STATS:
  
-Uᴩᴛɪᴍᴇ: {}
-CPU Uꜱᴀɢᴇ: {}%
-RAM Uꜱᴀɢᴇ: {}%
-Tᴏᴛᴀʟ Dɪꜱᴋ: {}
-Uꜱᴇᴅ Dɪꜱᴋ: {} ({}%)
-Fʀᴇᴇ Dɪꜱᴋ: {}"""
+UPTIME: {}
+CPU USAGE: {}%
+RAM USAGE: {}%
+ToTAL DISK: {}
+USED DISK: {} ({}%)
+FREE DISK: {}"""
     
-    BUTTON_LOCK_TEXT = "Hᴇʏ {query}\nTʜɪꜱ Iꜱ Nᴏᴛ Fᴏʀ Yᴏᴜ. Sᴇᴀʀᴄʜ Yᴏᴜʀ Sᴇʟꜰ"
+    BUTTON_LOCK_TEXT = ""👾 Hey {query},
+    ⛔ This Is Not For U. Search Ur Self""
    
-    FORCE_SUB_TEXT = "Sᴏʀʀʏ Bʀᴏ Yᴏᴜʀ Nᴏᴛ Jᴏɪɴᴇᴅ Mʏ Cʜᴀɴɴᴇʟ Sᴏ Pʟᴇᴀsᴇ Cʟɪᴄᴋ Jᴏɪɴ Bᴜᴛᴛᴏɴ Tᴏ Jᴏɪɴ Mʏ Cʜᴀɴɴᴇʟ Aɴᴅ Tʀʏ Aɢᴀɪɴ"
+    FORCE_SUB_TEXT = "SoRRY BRo YoUR NoT JoINED MY CHANNEL So PLEAsE CLIcK JoIN BUTToN To JoIN MY CHANNEL AND TRY AGAIN"
    
-    WELCOM_TEXT = """Hᴇʏ {user} 👾
+    WELCOM_TEXT = """👾 Hey {user},
 
-Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
-
-ꜱʜᴀʀᴇ & ꜱᴜᴩᴩᴏʀᴛ, ʀᴇqᴜᴇꜱᴛ ʏᴏᴜ ᴡᴀɴᴛᴇᴅ ᴍᴏᴠɪᴇꜱ"""
+🎗️ Welcome to {chat}.
+☘️ Share & Support Request U Wanted Movies."""
   
-    IMDB_TEMPLATE = """<b>Qᴜᴇʀʏ: {query}</b>
+    IMDB_TEMPLATE = """<b>☘️ QUERY: {query}</b>
 
-🏷 Tɪᴛʟᴇ: <a href={url}>{title}</a>
-🎭 Gᴇɴʀᴇꜱ: {genres}
-📆 Yᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
-🌟 Rᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a>/10"""
-   
-  
- 
-
-
-   
-  
- 
-
-
+🏷 TITLE: <a href={url}>{title}</a>
+🎭 GENRES: {genres}
+📆 YEAR: <a href={url}/releaseinfo>{year}</a>
+🌟 RATING: <a href={url}/ratings>{rating}</a>/10"""
