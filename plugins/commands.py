@@ -49,7 +49,12 @@ async def start(client, message):
             except ChatAdminRequired:
                 logger.error("MAKE SURE BOT IS ADMIN IN FORCESUB CHANNEL")
                 return
-        btn = [[InlineKeyboardButton("✨ Join My Channel", url=invite_link.invite_link)]]
+        btn =  [[
+            InlineKeyboardButton("🎬 Join Channel", url=invite_link.invite_link),
+            InlineKeyboardButton("💭 Join Group", url=invite_link.invite_link)
+            ],[        
+            InlineKeyboardButton("✨ Join Dev Channel", url=invite_link.invite_link)
+        ]]
             if message.command[1] != "subscribe":
                 try:
                     kk, file_id = message.command[1].split("_", 1)
