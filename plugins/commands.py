@@ -33,7 +33,7 @@ async def start(client, message):
             InlineKeyboardButton("➕️ Add Me to Ur Chat ➕", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton("🔎 Search", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("🔈 Channel", url="https://t.me/moviedownlk")
+            InlineKeyboardButton("🔈 Channel", url="https://t.me/Movie_films_series")
             ],[      
             InlineKeyboardButton("❓ Help", callback_data="help"),
             InlineKeyboardButton("❕About", callback_data="about")
@@ -53,8 +53,6 @@ async def start(client, message):
         btn =  [[
             InlineKeyboardButton("🎬 Join Channel", url="https://t.me/Movie_films_series"),
             InlineKeyboardButton("💭 Join Group", url="https://t.me/allmovieswithbot")
-        ],[        
-            InlineKeyboardButton("✨ Join Dev Channel", url="https://t.me/blogbychxrith")
         ]]
     
         if message.command[1] != "subscribe":
@@ -77,7 +75,7 @@ async def start(client, message):
             InlineKeyboardButton("➕️ Add Me to Ur Chat ➕", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton("🔎 Search", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("🔈 Channel", url="https://t.me/moviedownlk")
+            InlineKeyboardButton("🔈 Channel", url="https://t.me/Movie_films_series")
             ],[      
             InlineKeyboardButton("❓ Help", callback_data="help"),
             InlineKeyboardButton("❕About", callback_data="about")
