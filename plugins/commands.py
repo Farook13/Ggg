@@ -43,25 +43,28 @@ async def start(client, message):
         await message.reply_photo(photo=random.choice(PICS), caption=START_MESSAGE.format(user=message.from_user.mention, bot=client.mention), reply_markup=InlineKeyboardMarkup(buttons), parse_mode=enums.ParseMode.HTML)
         return await m.delete()
 
-        if AUTH_CHANNEL and not await is_subscribed(client, message):
-            try:
+    if AUTH_CHANNEL and not await is_subscribed(client, message):
+        try:
             invite_link = await client.create_chat_invite_link(int(AUTH_CHANNEL))
-            except ChatAdminRequired:
-                logger.error("MAKE SURE BOT IS ADMIN IN FORCESUB CHANNEL")
-                return
+        except ChatAdminRequired:
+            logger.error("MAKE SURE BOT IS ADMIN IN FORCESUB CHANNEL")
+            return
+    
         btn =  [[
-            InlineKeyboardButton("🎬 Join Channel", url=invite_link.invite_link),
-            InlineKeyboardButton("💭 Join Group", url=invite_link.invite_link)
-            ],[        
-            InlineKeyboardButton("✨ Join Dev Channel", url=invite_link.invite_link)
+            InlineKeyboardButton("🎬 Join Channel", url="https://t.me/Movie_films_series"),
+            InlineKeyboardButton("💭 Join Group", url="https://t.me/allmovieswithbot")
+        ],[        
+            InlineKeyboardButton("✨ Join Dev Channel", url="https://t.me/blogbychxrith")
         ]]
-            if message.command[1] != "subscribe":
-                try:
-                    kk, file_id = message.command[1].split("_", 1)
-                    pre = 'checksubp' if kk == 'filep' else 'checksub' 
+    
+        if message.command[1] != "subscribe":
+            try:
+                kk, file_id = message.command[1].split("_", 1)
+                pre = 'checksubp' if kk == 'filep' else 'checksub' 
                 btn.append([InlineKeyboardButton("⟳ Tʀʏ Aɢᴀɪɴ", callback_data=f"{pre}#{file_id}")])
-                except (IndexError, ValueError):
+            except (IndexError, ValueError):
                 btn.append([InlineKeyboardButton("⟳ Tʀʏ Aɢᴀɪɴ", url=f"https://t.me/{temp.U_NAME}?start={message.command[1]}")])
+    
 
         try:
             return await client.send_message(chat_id=message.from_user.id, text=FORCE_SUB_TEXT, reply_markup=InlineKeyboardMarkup(btn), parse_mode=enums.ParseMode.DEFAULT)
