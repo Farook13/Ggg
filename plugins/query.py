@@ -459,17 +459,24 @@ async def cb_handler(client: Client, query: CallbackQuery):
         
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('Sᴏᴜʀᴄᴇ Cᴏᴅᴇ 📜', 'source')
+            InlineKeyboardButton('developer', 'dev')
             ],[
             InlineKeyboardButton('✘ Cʟᴏꜱᴇ', 'close_data'),
             InlineKeyboardButton('« Bᴀᴄᴋ', 'start')          
         ]]
         await query.edit_message_media(InputMediaPhoto(random.choice(PICS), script.ABOUT_TXT.format(temp.B_NAME), enums.ParseMode.HTML), reply_markup=InlineKeyboardMarkup(buttons))
         
-    elif query.data == "source":
+    elif query.data == "dev":
         buttons = [[
-            InlineKeyboardButton('ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ', url='https://github.com/MrMKN/PROFESSOR-BOT')
+            InlineKeyboardButton('👾 About', url='https://t.me/CHXRITH'),
             ],[
+            InlineKeyboardButton('🦑 Github', url='https://github.com/CHXRITH'),
+            InlineKeyboardButton('💬 Blog', url='https://t.me/blogbychxrith?startgroup=true')
+            ],[
+            InlineKeyboardButton('💭 bbcන්', url='https://t.me/bbcnbychxrith'),
+            InlineKeyboardButton('🐍 python', url='https://t.me/PyByChari?startgroup=true')
+            ]
+            [
             InlineKeyboardButton('‹ Bᴀᴄᴋ', 'about')
         ]]
         await query.edit_message_media(InputMediaPhoto(random.choice(PICS), script.SOURCE_TXT, enums.ParseMode.HTML), reply_markup=InlineKeyboardMarkup(buttons))
